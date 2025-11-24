@@ -1,102 +1,126 @@
-# 👋 Hi there! I'm Manoj
+# 👋 Hi there! I'm Manoj Kumar Nayak
 
-![Banner](https://via.placeholder.com/800x400/667eea/ffffff?text=Manoj+Portfolio)
+![Banner](https://via.placeholder.com/800x400/667eea/ffffff?text=Manoj+Kumar+Nayak+Portfolio)
 
-> **Full-Stack Developer | Tech Enthusiast | Problem Solver**
+> **Python Developer | REST API Design | Full-Stack Engineer**
 
-📧 **Email**: manoj.yourmail@example.com  
-📍 **Location**: India  
-🔗 **Connect with me**: [LinkedIn](https://linkedin.com/in/manoj) | [GitHub](https://github.com/manoj8260)
+📞 **Phone**: (+91) 8260910585  
+📧 **Email**: [manoj.nayak4006@gmail.com](mailto:manoj.nayak4006@gmail.com)  
+📍 **Location**: Hyderabad, India  
+🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/manoj-nayak-0222b1229/) | [GitHub](https://github.com/manoj8260)
 
-## 📖 About Me
+## 📖 Profile Summary
 
-I'm a passionate Full-Stack Developer with expertise in building modern, scalable web applications. I love turning complex problems into simple, beautiful designs. My journey in programming has equipped me with a diverse skill set across multiple technologies and frameworks.
+Python Developer with hands-on experience in building scalable, high-performance applications and crafting robust RESTful APIs using Django, Flask, and FastAPI. Proficient in end-to-end web development, asynchronous programming, database design, Docker-based deployments, and implementing secure authentication and authorization mechanisms. Recognized for writing clean, efficient, and maintainable code with a strong emphasis on problem-solving, performance optimization, and code quality. Collaborates effectively and skilled in Version Control, SQL, and modern front-end technologies (JavaScript, HTML, CSS) to deliver reliable, user-focused solutions.
 
-## 🌟 Languages & Technologies
+## 💼 Experience
+
+### Python Full Stack Developer | QSpiders, Bhubaneswar
+*May 2024 – April 2025*
+- Mastered full-stack web development skills through comprehensive training in Python, Django, HTML, CSS, JavaScript, and SQL, completing 5 projects demonstrating proficiency in front-end and back-end technologies.
+- Designed and implemented three core features, including user authentication, and API integration, across two full-stack web projects during practical training exercises.
+- Optimized web interfaces for consistent performance and usability on responsive design.
+
+### Full Stack Developer Intern | CODE BEAT  
+*February 2023 – March 2023*
+- Engaged in end-to-end development of web applications, ensuring seamless integration across the stack.
+- Enforced responsive design principles for user-friendly interfaces across devices.
+- Created core reusable UI components and implemented them across three key dashboards, increasing code reuse by 40% and reducing code duplication issues.
+- Technologies Used: HTML, CSS, JavaScript, ReactJS, Redux Toolkit, Tailwind CSS.
+
+## 🌟 Skills & Technologies
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🚀 Python Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092B20?style=for-the-badge&logo=django&logoColor=white)
+![Django%20REST%20Framework](https://img.shields.io/badge/Django%20REST%20Framework-092B20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-092B20?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-15045A?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0168AA?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E377C2?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Redux%20Toolkit](https://img.shields.io/badge/Redux%20Toolkit-7645AB?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003C88?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🔧 Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Black?style=for-the-badge&logo=jwt&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-1E8F73?style=for-the-badge&logo=websockets&logoColor=white)
 
-### 🎨 Styling & Frameworks
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Styling Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-F1DE4F?style=for-the-badge&logo=vite&logoColor=black)
+![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🚀 My Projects
 
-### 💼 **E-Commerce Web Application**
-A full-stack e-commerce platform built with React, Node.js, and MongoDB. Features include user authentication, product catalog, shopping cart, and payment integration.
+### 💬 **CONNECTSPHERE: Real-Time Chat Application**
+Engineered a scalable, chat platform using FastAPI, SQLAlchemy ORM and WebSockets, enabling instantaneous bi-directional communication between users. Implemented JWT-based authentication and authorization to protect user data, manage sessions securely, and ensure privacy in chat interactions. Planned RESTful APIs for creating chatrooms, managing users, message retrieval with pagination and rate limiting for efficiency. Containerized the entire system using Docker for scalable deployment and consistent environments, while leveraging PostgreSQL for persistent data storage and Redis Pub/Sub for efficient real-time message broadcasting across distributed microservices.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • Stripe API  
-**Key Features:** JWT Authentication • Real-time Inventory • Responsive Design  
-**[View Project](https://github.com/manoj8260/ecommerce-app)**
+**Tech Stack:** Python • FastAPI • WebSockets • PostgreSQL • Redis • JWT • Microservices
 
-### 📊 **Task Management Dashboard**
-A modern task management application with drag-and-drop functionality, real-time updates, and team collaboration features.
+### 🐦 **ECOPOST: Tweet-Based Social Application**
+Enhanced a full-stack microblogging platform featuring complete CRUD (Create, Read, Update, Delete) functionality for user posts. Executed a robust user management system, including registration, login, and profile customization, with secure password hashing. Created and integrated social engagement features such as comments, likes, tweet-saving, and a follow/unfollow system to enhance user interaction. Expanded database performance by designing an efficient MySQL schema for storing user data, posts, and social interactions.
 
-**Tech Stack:** React • TypeScript • Tailwind CSS • Firebase  
-**Key Features:** Real-time Sync • Team Collaboration • Progress Tracking  
-**[View Project](https://github.com/manoj8260/task-manager)**
+**Tech Stack:** Python • Django • MySQL • HTML • CSS • JavaScript
 
-### 🔍 **Weather Forecast App**
-A responsive weather application providing real-time weather data and forecasts with beautiful visualizations.
+## 🎓 Education
 
-**Tech Stack:** JavaScript • HTML5 • CSS3 • OpenWeather API  
-**Key Features:** Location-based Weather • 7-day Forecast • Weather Charts  
-**[View Project](https://github.com/manoj8260/weather-app)**
+### Biju Patnaik University of Technology (BPUT) | Bhubaneswar, Odisha
+**Bachelor's Degree** | CGPA: 7.53/10 | *August 2020 – June 2024*
 
-### 🎵 **Music Player Application**
-A feature-rich music player with playlist management, audio visualization, and streaming capabilities.
+### Board of Higher Secondary Education | Odisha
+**Intermediate** | Percentage: 73% | *June 2018 – May 2020*
 
-**Tech Stack:** React • Redux • HTML5 Audio • Spotify API  
-**Key Features:** Playlist Management • Audio Visualizer • Crossfade  
-**[View Project](https://github.com/manoj8260/music-player)**
+### Board of Secondary Education (BSE) | Odisha
+**Matriculation** | Percentage: 76% | *April 2017 – May 2018*
 
 ## 🎯 Skills & Expertise
 
-### 💻 **Frontend Development**
-- **Expert:** React, JavaScript, HTML5, CSS3
-- **Advanced:** TypeScript, Tailwind CSS, Bootstrap
-- **Proficient:** Vue.js, Angular, Material-UI
+### 💻 **Programming Languages**
+- **Expert:** Python, JavaScript, C/C++
+- **Advanced:** HTML5, CSS3
+- **Proficient:** SQL, TypeScript
 
-### 🚀 **Backend Development**
-- **Expert:** Node.js, Express, RESTful APIs
-- **Advanced:** MongoDB, PostgreSQL, GraphQL
-- **Proficient:** Python (Django), Java (Spring Boot)
+### 🚀 **Python Frameworks & Backend**
+- **Expert:** Django, Django REST Framework, Flask, FastAPI
+- **Advanced:** Pandas, NumPy, Matplotlib
+- **Proficient:** SQLAlchemy, WebSockets, Microservices
+
+### 🌐 **Frontend Technologies**
+- **Expert:** ReactJS, Redux Toolkit, JavaScript
+- **Advanced:** Tailwind CSS, Bootstrap
+- **Proficient:** Material-UI, Vue.js
+
+### 🗄️ **Databases**
+- **Expert:** PostgreSQL, MySQL
+- **Advanced:** SQLite, Redis
+- **Proficient:** MongoDB, Oracle
 
 ### 🔧 **Tools & Technologies**
-- **DevOps:** Docker, AWS, Git, GitHub Actions
-- **Testing:** Jest, Mocha, Cypress
-- **Design:** Figma, Adobe XD, Sketch
+- **Expert:** Docker, Git, Postman, JWT
+- **Advanced:** WebSockets, RESTful APIs, GraphQL
+- **Proficient:** AWS, Azure, Jenkins
 
 ### 📈 **Soft Skills**
-- Problem Solving & Analytical Thinking
-- Team Collaboration & Communication
-- Agile Development & Project Management
-- Continuous Learning & Adaptability
+- **Problem Solving & Analytical Thinking** - Recognized for resolving complex programming issues quickly
+- **Team Collaboration & Communication** - Effective in cross-functional teams
+- **Performance Optimization** - Designed REST APIs resulting in 100% improvement in data retrieval speed
+- **Automation & Scripting** - Workflow automation, data processing, and custom tooling
 
 ## 📊 Coding Stats
 
@@ -104,20 +128,29 @@ A feature-rich music player with playlist management, audio visualization, and s
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj8260&theme=radical&layout=compact&langs_count=8)
 
-## 🏆 Achievements & Certifications
+## 💪 Strengths
 
-### 🎓 **Certifications**
+### 🔧 **Technical Strengths**
+- **Automation & Scripting**: Workflow automation, data processing, and custom tooling in Python
+- **Efficient API Design**: Designed REST APIs resulting in a 100% improvement in data retrieval speed
+- **Problem Solving**: Recognized for resolving complex programming issues quickly, maintaining high coding standards
+- **Database Optimization**: Expert in designing efficient database schemas and query optimization
+- **Containerization**: Proficient in Docker-based deployments and scalable application architecture
+
+### 🏆 **Achievements & Certifications**
+
+#### 🎓 **Certifications**
 - **AWS Certified Developer - Associate**
 - **Microsoft Azure Fundamentals (AZ-900)**
 - **Google Cloud Platform - Associate Cloud Engineer**
 - **MongoDB University - MongoDB Basics**
 
-### 🏅 **Hackathons & Competitions**
+#### 🏅 **Hackathons & Competitions**
 - **1st Place** - Tech Innovation Challenge 2023
 - **Best UI/UX Design** - Startup Weekend 2022
 - **Top 10** - National Coding Olympiad 2021
 
-### 📚 **Continuous Learning**
+#### 📚 **Continuous Learning**
 - Currently learning: **Machine Learning & AI**
 - Regular contributor to **Open Source Projects**
 - Active participant in **Tech Communities**
@@ -127,10 +160,10 @@ A feature-rich music player with playlist management, audio visualization, and s
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision!
 
 ### 📫 **Get in Touch**
-- 📧 **Email**: [manoj.yourmail@example.com](mailto:manoj.yourmail@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/manoj](https://linkedin.com/in/manoj)
+- 📧 **Email**: [manoj.nayak4006@gmail.com](mailto:manoj.nayak4006@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/manoj-nayak-0222b1229/](https://www.linkedin.com/in/manoj-nayak-0222b1229/)
 - 🐙 **GitHub**: [github.com/manoj8260](https://github.com/manoj8260)
-- 📱 **Portfolio**: [manoj-portfolio.com](https://manoj-portfolio.com)
+- � **Phone**: (+91) 8260910585
 
 ### 🤝 **Collaboration Opportunities**
 - 🔄 **Open to Freelance Work**
