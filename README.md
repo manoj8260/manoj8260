@@ -137,19 +137,6 @@ Enhanced a full-stack microblogging platform featuring complete CRUD (Create, Re
 - **Database Optimization**: Expert in designing efficient database schemas and query optimization
 - **Containerization**: Proficient in Docker-based deployments and scalable application architecture
 
-### 🏆 **Achievements & Certifications**
-
-#### 🎓 **Certifications**
-- **AWS Certified Developer - Associate**
-- **Microsoft Azure Fundamentals (AZ-900)**
-- **Google Cloud Platform - Associate Cloud Engineer**
-- **MongoDB University - MongoDB Basics**
-
-#### 🏅 **Hackathons & Competitions**
-- **1st Place** - Tech Innovation Challenge 2023
-- **Best UI/UX Design** - Startup Weekend 2022
-- **Top 10** - National Coding Olympiad 2021
-
 #### 📚 **Continuous Learning**
 - Currently learning: **Machine Learning & AI**
 - Regular contributor to **Open Source Projects**
